@@ -8,6 +8,8 @@ The following extra dependencies are required:
 
 For patch your installation of iRET, just copy the bash scripts to /Applications/iRE.app
 
+If any function doesn't work, contact me to patch it.
+
 ### Original README:
 
 The iOS Reverse Engineering Toolkit is a toolkit designed to automate many of the common tasks associated with iOS penetration testing. It automates a many common tasks including:
