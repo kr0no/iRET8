@@ -1,14 +1,15 @@
-iRET8
-====
+# iRET 8
 iOS Reverse Engineering Toolkit for iOS8.
-This tool is just a patch for use the original iRET in iOS 8.
+
+This tool is just a patch for use the original iRET in iOS 8. Actually only supports user installed apps.
 
 The following extra dependencies are required:
-- syslogd to /var/log/syslog, from saurik's repo
+- syslogd to /var/log/syslog, from saurik's repo.
 
 For patch your installation of iRET, just copy the bash scripts to /Applications/iRE.app
 
-*Original README:*
+### Original README:
+
 The iOS Reverse Engineering Toolkit is a toolkit designed to automate many of the common tasks associated with iOS penetration testing. It automates a many common tasks including:
 
  - binary analysis using otool
@@ -28,7 +29,7 @@ Usage:
 
 Dependencies:
   The following apps are required to be installed on the device (in addition to the tools required on the main page)
- - Python (2.5.1 or 2.7) (Need to be Cydia ‘Developer’)
+ - Python (2.5.1 or 2.7) (Need to be Cydia â€˜Developerâ€™)
  - coreutils
  - Erica Utilities
  - file
